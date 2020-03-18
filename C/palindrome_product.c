@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int isPalindrome(n) {
+int isPalindrome(int n) {
     int t = n;
     int r = 0;
 
